@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['instagram_post.py'],
+    ['your_script.py'],
     pathex=[],
     binaries=[],
     datas=[],
