@@ -10,7 +10,7 @@ To use Ig_post_resizer, you will need to have Python installed on your machine. 
 ## Usage
 Once you have downloaded the code, navigate to the project directory and launch the Ig_post.exe app located inside the dist folder. This will open a window giving you the option to select the folder where the pictures are located, and to add a watermark. After you have selected the folder, press the button Process images and the program will automatically resize all images and save them to a new folder called IG within the original folder.
 
-Make sure to change the watermark.png file to the desired watermark to add. Note that his feature is in an early stage of development and the results may not be perfect
+Make sure to change the watermark.png file to your desired watermark to be added. Note that his feature is in an early stage of development and the results may not be perfect
 
 ## About the Program
 This program uses the Python Imaging Library (PIL) to manipulate the images. It creates a canvas with a fixed size based on the image size. It then resizes the original image and pastes it onto the center of the canvas. If the original image is a landscape photo, it calculates the left and right borders to add to the canvas. If the original image is a vertical photo, it calculates the top and bottom borders to add. Finally, it saves the resized image to the output folder.
