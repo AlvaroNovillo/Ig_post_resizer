@@ -1,15 +1,14 @@
-# Ig_post_resizer
-Resize images to Instagram allowed format, adding a white squared canvas and centering your images inside it, without losing quality
-## Instalation
+## Ig_post_resizer
+Ig_post_resizer is a Python program that resizes images to the allowed format of Instagram posts by adding a white squared canvas and centering the images inside it, without losing quality. This repository contains the source code for this program.
 
-If you want to reproduce the results of our research, you can clone the repository using the following command:
+## Instalation
+To use Ig_post_resizer, you will need to have Python installed on your machine. You can clone the repository using the following command:
 
     git clone https://github.com/AlvaroNovillo/Ig_post_resizer.git
     
     
-## Guidelines to use it
-
-Right now the implementation is simple, and needs to be improved. To use it, make sure you have Python installed in your console, and then launch Ig_post.exe app inside dist. Then, choose the folder where the pictures you want to resize are, and let the program do all the hard work for you.
+## Usage
+Once you have downloaded the code, navigate to the project directory and launch the Ig_post.exe app located inside the dist folder. This will open a file dialog that will prompt you to select the folder containing the images you want to resize. After you have selected the folder, the program will automatically resize all images and save them to a new folder called IG within the original folder.
 
 
 ## About Me
