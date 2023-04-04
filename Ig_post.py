@@ -4,9 +4,6 @@ from PIL import Image
 import tkinter as tk
 from tkinter import filedialog
 
-import tkinter as tk
-from tkinter import filedialog
-
 # Create a Tkinter window
 root = tk.Tk()
 root.title('Image Watermarking Tool')
