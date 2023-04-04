@@ -4,9 +4,7 @@ from PIL import Image
 import tkinter as tk
 from tkinter import filedialog
 
-# Set up the canvas size for the Instagram post
-canvas_width = 1080
-canvas_height = 1080
+
 
 # Create a Tkinter window
 root = tk.Tk()
