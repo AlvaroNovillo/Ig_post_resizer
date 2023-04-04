@@ -4,7 +4,7 @@ Resize images to Instagram allowed format, adding a white squared canvas and cen
 
 If you want to reproduce the results of our research, you can clone the repository using the following command:
 
-    git clone https://github.com/AlvaroNovillo/MEG-Topological-and-Fractal-analysis.git
+    git clone https://github.com/AlvaroNovillo/Ig_post_resizer.git
 
 ## About Me
 
