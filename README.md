@@ -1,4 +1,4 @@
-## Ig_post_resizer
+## Ig_post_resizer 1.1
 Ig_post_resizer is a Python program that resizes images to the allowed format of Instagram posts by adding a white squared canvas and centering the images inside it, without losing quality. This repository contains the source code for this program.
 
 ## Instalation
