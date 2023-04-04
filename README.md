@@ -10,6 +10,9 @@ To use Ig_post_resizer, you will need to have Python installed on your machine. 
 ## Usage
 Once you have downloaded the code, navigate to the project directory and launch the Ig_post.exe app located inside the dist folder. This will open a file dialog that will prompt you to select the folder containing the images you want to resize. After you have selected the folder, the program will automatically resize all images and save them to a new folder called IG within the original folder.
 
+## About the Program
+This program uses the Python Imaging Library (PIL) to manipulate the images. It creates a canvas with a fixed size of 1080x1080 pixels, the same dimensions as an Instagram post. It then resizes the original image and pastes it onto the center of the canvas. If the original image is a landscape photo, it calculates the left and right borders to add to the canvas. If the original image is a vertical photo, it calculates the top and bottom borders to add. Finally, it saves the resized image to the output folder.
+
 
 ## About Me
 
