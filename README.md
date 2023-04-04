@@ -5,6 +5,12 @@ Resize images to Instagram allowed format, adding a white squared canvas and cen
 If you want to reproduce the results of our research, you can clone the repository using the following command:
 
     git clone https://github.com/AlvaroNovillo/Ig_post_resizer.git
+    
+    
+## Guidelines to use it
+
+Right now the implementation is simple, and needs to be improved. To use it, make sure you have Python installed in your console, and then launch Ig_post.exe app inside dist. Then, choose the folder where the pictures you want to resize are, and let the program do all the hard work for you.
+
 
 ## About Me
 
