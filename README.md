@@ -13,6 +13,8 @@ Once you have downloaded the code, navigate to the project directory and launch 
 ## About the Program
 This program uses the Python Imaging Library (PIL) to manipulate the images. It creates a canvas with a fixed size based on the image size. It then resizes the original image and pastes it onto the center of the canvas. If the original image is a landscape photo, it calculates the left and right borders to add to the canvas. If the original image is a vertical photo, it calculates the top and bottom borders to add. Finally, it saves the resized image to the output folder.
 
+Right now the program is optimized for either landscape oriented and vertical images.
+
 
 ## About Me
 
